@@ -1,0 +1,9 @@
+Key,Id,Shared Comments,English(en),Chinese (Simplified)(zh-Hans),German(de),Spanish(es),Japanese(ja),Korean(ko),Russian(ru)
+"settings",251969858846720,"","Lobby Settings","大厅设置","lobby-Einstellungen","configuración del lobby","ロビー設定","로비 설정",""
+"maxPlayers",252707225878528,"","Max Players","最大玩家数","maximale Anzahl von Spielern","máximo de jugadores","最大プレイヤー数","최대 플레이어 수",
+"privateLobby",252711101415424,"","Private Lobby","私人大堂","Private Lobby","lobby privado","プライベートロビー","개인 로비",
+"winScore",252716440764416,"","Win Score","获胜分数","Gewinnpunktzahl","puntuación de victorias","勝利スコア","승리 점수",
+"maps",252720421158912,"","Maps","竞技场","Arenen","Arenas","アリーナ","아레나",
+"mapsDescription",252726721003520,"","Select the maps to include in rotation","选择要包括的竞技场","Wählen Sie die Arenen aus, die enthalten sein sollen","Selecciona las arenas para incluir","ローテーションに含めるアリーナを選択してください","포함할 아레나 선택",
+"createLobby",254365368467456,"","CREATE LOBBY","创建大厅","LOBBY ERSTELLEN","CREAR LOBBY","ロビーの作成","로비 만들기",
+"respawnDelay",12630329822011392,"","Respawn Delay","重生延迟","Wiedereinspawndauer","Retraso de Respawn","リスポーン遅延","리스폰 지연",
