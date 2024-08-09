@@ -7,3 +7,7 @@ Key,Id,Shared Comments,English(en),Chinese (Simplified)(zh-Hans),German(de),Span
 "mapsDescription",252726721003520,"","Select the maps to include in rotation","选择要包括的竞技场","Wählen Sie die Arenen aus, die enthalten sein sollen","Selecciona las arenas para incluir","ローテーションに含めるアリーナを選択してください","포함할 아레나 선택",
 "createLobby",254365368467456,"","CREATE LOBBY","创建大厅","LOBBY ERSTELLEN","CREAR LOBBY","ロビーの作成","로비 만들기",
 "respawnDelay",12630329822011392,"","Respawn Delay","重生延迟","Wiedereinspawndauer","Retraso de Respawn","リスポーン遅延","리스폰 지연",
+"map_alikabok-canyon",156441878836707328,"","Alikabok Canyon",,,,,,
+"map_glowing-meadow",156441944385290240,"","Glowing Meadow",,,,,,
+"map_extraction-facility",156441986806480896,"","Extraction Facility",,,,,,
+"mapExcluded",156442066221432832,"","Included in full game",,,,,,
