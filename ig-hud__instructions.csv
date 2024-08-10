@@ -1,0 +1,7 @@
+Key,Id,Shared Comments,English(en),Chinese (Simplified)(zh-Hans),German(de),Spanish(es),Japanese(ja),Korean(ko),Russian(ru)
+pickupItem,104655110144,,To Pick Up,拿起 ,Aufheben,Recoger,拾う,집어 들다,Подобрать
+toggle,14611783761920,,Toggle,切换,Umschalten,Alternar,切り替える,토글,Переключить
+discard,14641244553216,,Discard,丢弃,Fallen lassen,Soltar,落とす,놓다,Выбросить
+crouch,109519890694144,,Crouch,蹲下,In die Hocke gehen,Agacharse,しゃがむ,웅크리다 ,Пригнуться
+gameMenu,109609648799744,,Open Menu,打开菜单,Menü öffnen,Abrir menú,メニューを開く,메뉴 열기,Открыть меню
+fire,109670197772288,,Fire Weapon,射击 ,Schießen,Disparar,発射する,발사하다,Выстрелить

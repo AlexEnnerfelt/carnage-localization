@@ -1,0 +1,12 @@
+Key,Id,Shared Comments,English(en),Chinese (Simplified)(zh-Hans),German(de),Spanish(es),Japanese(ja),Korean(ko),Russian(ru)
+quickPlay,15299657728,,Quick Play,快速游戏,SCHNELLES SPIEL,JUEGO RÁPIDO,クイックプレイ,빠른 플레이,Быстрая игра
+multiplayer,126150918144,,Multiplayer,主持游戏,SPIEL HOSTEN,JUEGO ANFITRIÓN,ゲームをホストする,호스트 게임,Сетевая игра
+singleplayer,286067146752,,Single Player, 加入游戏,SPIEL BEITRETEN,UNIRSE AL JUEGO,ゲームに参加する,게임 참가,Один игрок
+options,322532425728,,Options,选项,OPTIONEN,OPCIONES,オプション,옵션,Настройки
+exit,351183716352,,Quit To Desktop,退出游戏,SPIEL VERLASSEN,SALIR DEL JUEGO,ゲームを終了する,종료 게임,Выход на рабочий стол
+cancel,12411640627200,,Cancel,取消,ABBRECHEN,CANCELAR,キャンセル,취소,Отмена
+campaign,156482166628188160,,Campaign,,,,,,Кампания
+deathmatch,156482192632872960,,Deathmatch,,,,,,Бой насмерть
+settings,156482221414187008,,Settings,,,,,,Настройки
+back,156485829681643520,,Back,,,,,,Назад
+discord,156485981549002752,,Join the official Discord and share your feedback,,,,,,Присоединяйтесь к официальному Discord-серверу и делитесь своими отзывами
